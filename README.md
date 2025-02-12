@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GhostCompiler
+# 👋 Hi, I’m @Jane Malik
 
 🚀 Data Engineer | Python Developer | AI Enthusiast  
 
